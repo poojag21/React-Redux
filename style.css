@@ -1,0 +1,35 @@
+
+
+
+img{
+	
+	align-self: right;
+	border: 50px;
+	width: 500px;
+	height: 100px;
+	float: left;
+	margin-top: 40px;
+}
+
+h3{
+	padding-top: 20px;
+	font-family:'courier';
+	padding-left: 50px;
+}
+
+
+.list-group{
+	
+	margin-bottom: 20px;
+	text-align: center;
+	padding-top: 50px;
+	align-self: center;
+	padding-left: 50px;
+	border: 40px;
+}
+
+.list{
+	margin-top: 40px;
+
+}
+
